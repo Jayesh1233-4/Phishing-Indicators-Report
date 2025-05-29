@@ -80,5 +80,5 @@ This email exhibits multiple clear phishing signs.
 
 ✅ Report the email to your email provider as phishing.
 
-✅ Forward the email to Capital One’s phishing report address (abuse@capitalone.com) if you’re a customer.
+✅ Forward the email to Capital One’s phishing report address (Email) if you’re a customer.
 

@@ -1,6 +1,7 @@
 # Phishing-Indicators-Report
 This project analyzes a phishing email sample, identifying key red flags such as fake sender domains, urgency tactics, and suspicious links, to help improve phishing detection awareness.
 
+![600b034d57adbf9e543394f1_capital-one-phishing-example-p-1080](https://github.com/user-attachments/assets/78046e78-3b82-40ce-8a7d-16026684bb76)
 
 
 ## Email Overview

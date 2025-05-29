@@ -25,6 +25,7 @@ Classic phishing technique to trigger panic and bypass critical thinking.
 
 ## Suspicious Links
 “Review your current staus online” → misspelled “staus”.
+
 ✅ Red flag:
 Hovering over the link (if available) would likely show a non-Capital One domain.
 Poor spelling is often a sign of phishing.
@@ -33,6 +34,7 @@ Poor spelling is often a sign of phishing.
 ## Generic Greeting
 
 No personalization; just “Re: Your Capital One profile changes”.
+
 ✅ Red flag:
 Legitimate companies usually address you by name, especially in sensitive alerts.
 
@@ -47,6 +49,7 @@ Phishers often mix brands, assuming users won’t notice.
 ## Spelling & Grammar Errors
 
 Example: “staus” instead of status.
+
 ✅ Red flag:
 Professional companies proofread their customer communications
 
@@ -54,10 +57,12 @@ Professional companies proofread their customer communications
 ## Unverified Links (Potentially Malicious)
 
 Sign In and visit our Information Protection Center likely lead to phishing pages.
+
 ✅ Red flag:
 URLs should always be verified; suspicious domains can harvest credentials.
 
 ## Tools You Can Use
+
 ✅ Use a free online header analyzer (e.g., MXToolbox, Google Admin Toolbox) to inspect full email headers for:
 SPF/DKIM/DMARC failures.
 Sender IP reputation.
@@ -70,7 +75,10 @@ PhishTank to check if they’re flagged as phishing.
 
 ## Conclusion & Recommendation
 This email exhibits multiple clear phishing signs.
-✅ Do NOT click any links.
+
+✅ Do NOT click any links. 
+
 ✅ Report the email to your email provider as phishing.
+
 ✅ Forward the email to Capital One’s phishing report address (abuse@capitalone.com) if you’re a customer.
 
